@@ -1,0 +1,5 @@
+Cross-Validation,,,,,Results:
+Accuracy:,,0.98,,+,0.04
+Precision:,,0.8,,+,0.4
+Recall:,,1,+,0,
+Fl,Score:,@.80,,+,0.4
